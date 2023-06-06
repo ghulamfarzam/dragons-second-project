@@ -9,6 +9,14 @@ public class FarzamClass {
 		System.out.println("This is not a text");
 		
 		
+		System.out.println("This is new");
+		System.out.println("This is new");
+		System.out.println("This is new");
+		System.out.println("This is new");
+		System.out.println("This is new");
+		
+		
+		
 
 	}
 
